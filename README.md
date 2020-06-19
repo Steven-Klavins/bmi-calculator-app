@@ -1,2 +1,3 @@
 # bmi-calculator-app
-A basic BMI calculator app for android devices 
+A BMI calculator app for android devices, built in Android and java
+
